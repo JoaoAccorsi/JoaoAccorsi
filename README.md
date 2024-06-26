@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am motivated about technology and focused in software development in general.
 
-My main knowledge are in back-end with focus in POO and Java.
+My main knowledge are in back-end with focus in OOP and Java.
 
 <details>
 <summary>Click for GitHub Stats</summary>
